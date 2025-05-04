@@ -9,7 +9,7 @@
   "author": "Randy J. Fortier",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^4.0.1"
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
   }
 }
